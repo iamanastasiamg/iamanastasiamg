@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Anastasia!
 I am data enthusiast with strong analytical, programming, collaboration skills and passionate about data usage. Committed to identifying insights for optimal decision-making and business growth.
+
 🌱 I’m currently enrolled into AI Data Factory: A comprehensive Machine Learning & Data Analysis Bootcamp.
+
 📫 Contact with me: anastasiamaglara12@gmail.com
 <!--
 **iamanastasiamg/iamanastasiamg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
