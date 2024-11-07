@@ -5,6 +5,8 @@ I am data enthusiast with strong analytical, programming, collaboration skills a
 
 🌱 I’m currently enrolled into AI Data Factory: A comprehensive Machine Learning & Data Analysis Bootcamp.
 
+⚡ Fun fact: I turn coffee into code.
+
 📫 Contact with me: anastasiamaglara12@gmail.com
 <!--
 **iamanastasiamg/iamanastasiamg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
