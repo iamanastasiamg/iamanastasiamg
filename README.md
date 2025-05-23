@@ -3,7 +3,7 @@ I am data enthusiast with strong analytical, programming, collaboration skills a
 
 🔭 I’m currently working on full cycle Oracle application development.
 
-🌱 I’m currently enrolled into AI Data Factory: A comprehensive Machine Learning & Data Analysis Bootcamp.
+🌱 I recently completed the AI Data Factory: A comprehensive Machine Learning & Data Analysis Bootcamp from AUEB.
 
 ⚡ Fun fact: I turn coffee into code.
 
